@@ -4,7 +4,7 @@ Polymer materials, also known as polymer materials, are a type of material compo
 # Ceramic Silicone Rubber for Battery Fire Protection
 Technical datasheet and product introduction of ANDI ceramic silicone rubber, used for cable fire barrier and battery thermal runaway protection.
 
-👉 Official Website: [ANDI](https://xxx.com)
+👉 Official Website: [ANDI](https://www.andifireproof.com/)
 
 👉 Product Page: [Ceramic Silicone Rubber Tape](https://www.andifireproof.com/new_energy_series/8.html)
 
